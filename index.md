@@ -13,3 +13,8 @@ You can find the source code [here](https://github.com/BradenTeo/DAO2702).
 
 ### Dwellings Chropleth (only for people living in Landed Properties, Condominiums and other Apartments)
 <iframe src="folium_map_dwellings.html" height="500" width="800"></iframe>
+
+### Combined Maps
+<iframe src="folium_map_combined.html" height="500" width="800"></iframe>
+
+Alternatively, you can explore this map [as its own web page here](folium_map_combined.html)
