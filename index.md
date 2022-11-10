@@ -11,7 +11,7 @@ You can find the source code [here](https://github.com/BradenTeo/DAO2702).
 ### Age Choropleth (only for ages 20-60yo -- Starbuck's target group)
 <iframe src="folium_map_age.html" height="500" width="800"></iframe>
 
-### Dwellings Chropleth (only for people living in Landed Properties, Condominiums and other Apartments)
+### Dwellings Choropleth (only for people living in Landed Properties, Condominiums and other Apartments)
 <iframe src="folium_map_dwellings.html" height="500" width="800"></iframe>
 
 ### Combined Maps
